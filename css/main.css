@@ -28,7 +28,7 @@ body {
     display: inline-block;
   }
 
-  img:nth-child(2){
+  img {
     display: none;
     width: 50%;
   }
