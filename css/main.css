@@ -19,6 +19,11 @@ body {
   html {
     display: inline-block;
   }
+
+  img {
+    display: none;
+    width: 100%;
+  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -29,7 +34,7 @@ body {
 
   img {
     display: none;
-    width: 100%;
+    width: 110%;
   }
 }
 
@@ -41,6 +46,6 @@ body {
 
   img {
     display: none;
-    width: 100%
+    width: 120%
   }
 }
