@@ -37,7 +37,7 @@ body {
 @media only screen and (min-width: 38em) {
 
   html {
-    font-size: 110%;
+    display: inline-block;
   }
 
   img {
@@ -49,7 +49,7 @@ body {
 @media only screen and (min-width: 60em) {
 
   html {
-    font-size: 120%;
+    display: inline-block;
   }
 
   img {
